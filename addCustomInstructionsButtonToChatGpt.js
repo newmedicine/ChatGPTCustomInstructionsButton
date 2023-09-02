@@ -2,7 +2,7 @@
 // @name         ChatGPT custom instructions button
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Add a 'Custom instructions' button to the bottom of the side panel
+// @description  Add a 'Custom instructions' button to the bottom of the side panel. You have to do this manually once first for the script to work.
 // @author       Nick Bell
 // @match        https://chat.openai.com/*
 // @grant        none
